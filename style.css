@@ -1,0 +1,37 @@
+body {
+    background-color: yellow;
+    color: rgb(43, 0, 255);
+}
+
+header {
+    background-color: lightgray;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0 20px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+span {
+    font-weight: bold;
+}
+
+main {
+    display: flex;
+    justify-content: space-around;
+}
+
+div {
+    background-color: lightgray;
+    padding: 10px;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+}
